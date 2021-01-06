@@ -57,8 +57,8 @@
 }
 
 @font-face {
-    font-family: 'ZillaSlabHighlight-Regular';
-    src: url("font/ZillaSlabHighlight-Regular.ttf") format("opentype");
+    font-family: 'ZillaSlabHighlight-Bold';
+    src: url("font/ZillaSlabHighlight-Bold.ttf") format("opentype");
 }
 
 @font-face {
@@ -98,8 +98,6 @@ h1, h2 {
 h3{font-family: 'NotoSansCJKkr-Medium'}
 h4{font-family: 'NotoSansCJKkr-Black'}
 
-
-.skillbar{width: 100%; height: 100px; background-color: #f1f1f1}
 
 
    .pr-lg-5 p:nth-child(1){width: 100%; font-size: 1.5rem;display: inline-block; height: 28px;
@@ -164,7 +162,7 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 .modal-content7>div>img{width: 100%}
 
 .modal-content8{width: 100%; height: auto; margin: 0 auto; background-color: #fff; text-align: center; position: relative}
-
+.modal-content8>div>img{width: 100%}
 .modal-content8>div:nth-child(1){position: absolute; top: 7.5%; left: 0; right: 0; margin: 0 auto; width: 100px; height: 40px; border: 2px solid #125f7d; line-height: 36px; border-radius: 50px; background-color: #125f7d; font-size: 1.5rem; font-family: 'NotoSansCJKkr-Black'; color: #fff; transition: all 0.9s}
 
 .modal-content8>div:nth-child(1):hover{position: absolute; top: 7.5%; left: 0; right: 0; margin: 0 auto; width: 100px; height: 40px; border: 2px solid #fff; line-height: 36px; border-radius: 50px; background-color: #fff; font-size: 1.5rem; font-family: 'NotoSansCJKkr-Black'; color: #125f7d; transition: all 0.9s}
@@ -196,22 +194,22 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 
 
 
-.close-animatedModal6>div>img{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2}
-.close-animatedModal6>div>img:hover{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
+.close-animatedModal6>div>img{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2}
+.close-animatedModal6>div>img:hover{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
 
 
-.close-animatedModal7>div>img{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2}
-.close-animatedModal7>div>img:hover{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
-
-
-
-.close-animatedModal8>div>img{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2}
-.close-animatedModal8>div>img:hover{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
+.close-animatedModal7>div>img{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2}
+.close-animatedModal7>div>img:hover{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
 
 
 
-.close-animatedModal9>div>img{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2}
-.close-animatedModal9>div>img:hover{position: absolute; top: 14%; right: 15%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
+.close-animatedModal8>div>img{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2}
+.close-animatedModal8>div>img:hover{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
+
+
+
+.close-animatedModal9>div>img{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2}
+.close-animatedModal9>div>img:hover{position: absolute; top: 5%; right: 3%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
 
 .close-animatedModal10>div>img{position: fixed; top: 5%; right: 3%; margin: 0 auto; z-index: 2}
 .close-animatedModal10>div>img:hover{position: fixed; top: 5%; right: 3%; margin: 0 auto; z-index: 2; background-image: url(../img/closeaa.png)}
@@ -265,6 +263,98 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 
 .img-fluid2{background-image: url(../img/end2.png); width: 100px; height: 100px; margin: 0 auto; transition: all 0.9s}
 .img-fluid2:hover{background-image: url(../img/end22.png); width: 100px; height: 100px; margin: 0 auto; transition: all 0.9s}
+
+
+.skillbar{width: 100%; height: 100px; background: url(../img/a11.jpg) 0 0 / 100% 100% fixed no-repeat; background-size: cover; background-position: center center}
+.skillbar .container{width: 100%; height: 100px; background: url(../img/a11.jpg) 0 0 / 100% 100% fixed no-repeat; position: relative; background-size: cover; background-position: center center}
+
+.skill{position: absolute; top: 14px; left: 0; margin: 0 auto; font-family: 'FrankRuhlLibre-Regular'; font-size: 2.5rem; color: #525252}
+.slill-set{position: absolute; top: 30px; left: 18%}
+.inline-skill{display: inline-block; text-align: center; margin: 0 35px;}
+
+.inline-skill>p{font-size: 0.9rem; padding-top: 6px; font-family: 'FrankRuhlLibre-Regular'; color: #525252}
+
+
+.progress-bar {
+            background-color: #005a7d;
+            height: 25px;
+            width: 180px;
+        }
+        
+        .progress-bar span {
+            display: inline-block;
+            height: 100%;
+			background-color: #777;
+            
+			
+           		
+        }
+		
+		/*---------------------------*/			
+		
+       
+
+        .orange span {
+			  background-color: #4ac1d7;
+			  
+        }	
+
+        
+		
+		/*---------------------------*/		
+		
+		
+        
+        @-webkit-keyframes animate-stripes { 
+			0% {background-position: 0 0;} 100% {background-position: 60px 0;}
+        }
+        
+        
+        @-moz-keyframes animate-stripes {
+			0% {background-position: 0 0;} 100% {background-position: 60px 0;}
+        }
+		
+		/*---------------------------*/	 
+
+		.shine span {
+			position: relative;
+		}
+		
+		.shine span::after {
+			content: '';
+			opacity: 0;
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background: #fff;
+            		
+			
+            -webkit-animation: animate-shine 2s ease-out infinite;
+            -moz-animation: animate-shine 2s ease-out infinite; 			
+		}
+
+        @-webkit-keyframes animate-shine { 
+			0% {opacity: 0; width: 0;}
+			50% {opacity: .5;}
+			100% {opacity: 0; width: 95%;}
+        }
+        
+        
+        @-moz-keyframes animate-shine {
+			0% {opacity: 0; width: 0;}
+			50% {opacity: .5;}
+			100% {opacity: 0; width: 95%;}
+        }
+
+
+
+
+
+
+
+
 
 .btn, .form-control {
   outline: none;
@@ -968,7 +1058,7 @@ text-align: center}
     #epilogue .col-md-8 p{font-size: 1rem}
     
     .media-testimonial blockquote p{font-size: 0.9rem}
-    
+    .slill-set{position: absolute; top: 30px; right: 3%}
 }
 
 
@@ -980,6 +1070,13 @@ text-align: center}
 .btnsm2 a{position: absolute; right: 26%; margin: 0 auto}
     #epilogue .col-md-8 p{font-size: 0.7rem}
     .media-testimonial blockquote p{font-size: 0.7rem}
+    
+    .skill{position: absolute; left: 0; right: 0; margin: 0 auto; text-align: center}
+    .skillbar{height: 340px}
+    .inline-skill{display: block; left: 0; right: 0; margin: 0 auto}
+    .slill-set{position: absolute; top: 110px; left: 0; right: 0; margin: 0 auto}
+    .progress-bar{margin: 0 auto; width: 500px}
+    .inline-skill>p{font-size: 1.2rem; padding-top: 0}
 }
 
 
@@ -992,6 +1089,11 @@ text-align: center}
 .btnsm2 a{position: absolute; right: 31%; margin: 0 auto}
     .btn.btn-sm {
   font-size: 1rem}
+    .progress-bar{margin: 0 auto; width: 300px}
+    .modal-content6>div:nth-child(1){width: 40px; height: 20px; font-size: 0.6rem; line-height: 17.5px}
+    .modal-content8>div:nth-child(1){width: 40px; height: 20px; font-size: 0.6rem; line-height: 17.5px}
     
+    .modal-content3{width: 100%}
+    .modal-content4{width: 100%}
 }
 
