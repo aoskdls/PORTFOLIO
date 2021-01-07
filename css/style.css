@@ -116,7 +116,7 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 
 #mediaset{padding-bottom: 14%}
 
-.end{font-family: 'NotoSansCJKkr-Medium'; font-size: 1.6rem}
+.end{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.6rem}
 
 
 #btn-close-modal {
@@ -272,7 +272,7 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 .slill-set{position: absolute; top: 30px; left: 18%}
 .inline-skill{display: inline-block; text-align: center; margin: 0 35px;}
 
-.inline-skill>p{font-size: 0.9rem; padding-top: 6px; font-family: 'FrankRuhlLibre-Regular'; color: #525252}
+.inline-skill>p{font-size: 0.97rem; padding-top: 4px; font-family: 'FrankRuhlLibre-Regular'; color: #525252}
 
 
 .progress-bar {
@@ -350,11 +350,11 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 
 
 
+#branding .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
 
+#visual .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
 
-
-
-
+#cardnews .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
 
 .btn, .form-control {
   outline: none;
@@ -690,7 +690,8 @@ position: fixed; width: 100%; box-shadow: 5px 5px 5px rgba(130, 130, 130, 0.2)}
 .rowimg img{width: 90%}
 
 .col-lg-4 p{font-family: 'FrankRuhlLibre-Regular'}
-.col-md-8 p{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.6rem}
+.mb-0 a{font-family: 'FrankRuhlLibre-Regular'}
+
 
 .col-md-6{margin-top: 6rem}
 #epilogue .col-md-8 p{font-size: 1.2rem}
@@ -777,8 +778,8 @@ position: fixed; width: 100%; box-shadow: 5px 5px 5px rgba(130, 130, 130, 0.2)}
     color: #007bff; }
   .media-feature h3 {
     font-size: 1.5rem;
-    text-transform: uppercase;
-padding-top: 5%}
+    
+padding-top: 5%; font-family: 'FrankRuhlLibre-Regular'}
   .media-feature:hover, .media-feature:focus {
     -webkit-box-shadow: 0 2px 20px -3px rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 20px -3px rgba(0, 0, 0, 0.1);
