@@ -7129,7 +7129,7 @@ button.bg-dark:focus {
   white-space: nowrap; }
 
 .text-left {
-  text-align: left !important; }
+  text-align: left; }
 
 .text-right {
   text-align: right !important; }

@@ -1107,6 +1107,13 @@ text-align: center}
     .modal-content4{width: 100%}
     .modal-content5{width: 100%}
     
+    .pr-lg-5 p:nth-child(1){float: none; text-align: center}
+    
+    h4, .h4{text-align: center}
+    .pr-lg-5 p span:nth-child(2){float: none}
+    .pr-lg-5 p span:nth-child(6){float: none}
+    .text-left{text-align: center}
+    .heading.border-bottom.text-left:before{right: 0; margin: 0 auto}
 }
 
 @media (max-width: 580px){
