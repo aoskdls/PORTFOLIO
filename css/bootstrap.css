@@ -5040,6 +5040,11 @@ button.bg-danger:focus {
 .bg-light {
   background-color: #f8f9fa !important; }
 
+
+.bg-light1 {
+  background: url(../img/aa33.jpg) 0 0 / 100% 100% fixed no-repeat !important; }
+
+
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
