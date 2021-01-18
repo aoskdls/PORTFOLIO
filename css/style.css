@@ -370,11 +370,11 @@ h4{font-family: 'NotoSansCJKkr-Black'}
 
 
 
-#branding .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
+#branding .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; }
 
-#visual .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
+#visual .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; }
 
-#cardnews .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; font-size: 1.5rem}
+#cardnews .col-md-8 .lead{font-family: 'FrankRuhlLibre-Regular'; }
 
 .btn, .form-control {
   outline: none;
