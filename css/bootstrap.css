@@ -6036,7 +6036,7 @@ button.bg-dark:focus {
   position: relative !important; }
 
 .position-absolute {
-  position: absolute !important; }
+  position: absolute ; }
 
 .position-fixed {
   position: fixed !important; }
